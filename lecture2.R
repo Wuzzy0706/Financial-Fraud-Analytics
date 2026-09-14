@@ -1,5 +1,8 @@
 # A complete workflow for transaction fraud data analysis preprocessing and PCA dimensionality reduction -----
-
+# Identify internal and external data sources for fraud detection.
+# Explain how source tables are joined and how duplicated or missing data is handled.
+# Apply the sampling and preprocessing methods covered in this lecture.
+# Explain what the main preprocessing methods do, and what their limitations are.
 library(tidyverse)
 # including dplyr\readr\ggplot2\forcats\tibble for input Cleaning Transformat Visualised.
 library(lubridate)
